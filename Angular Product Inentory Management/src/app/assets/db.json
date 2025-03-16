@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "krishna123@gmail.com",
+      "password": "password123",
+      "firstName": "Vamsi",
+      "lastName": "Madugundu",
+      "location": "Hyderabad",
+      "mobileNumber": "9848532219"
+    },
+    {
+      "id": 2,
+      "email": "keerthisri345@gmail.com",
+      "password": "password345",
+      "firstName": "Keerthi",
+      "lastName": "Kanakala",
+      "location": "Vizag",
+      "mobileNumber": "0987654321"
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop",
+      "description": "A powerful gaming laptop with Nvidia Getforce 5000 series",
+      "manufacturer": "Tech Corp",
+      "manufacturingDate": "2025-02-23",
+      "price": 45000,
+      "quantity": 15
+    },
+    {
+      "id": 102,
+      "name": "Smartphone",
+      "description": "Smartphone with IPX 5 rating with 5G",
+      "manufacturer": "Mobile Inc",
+      "manufacturingDate": "2025-03-15",
+      "price": 900,
+      "quantity": 30
+    }
+  ]
+}
