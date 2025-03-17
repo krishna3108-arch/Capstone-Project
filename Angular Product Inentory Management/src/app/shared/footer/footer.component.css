@@ -1,0 +1,23 @@
+/* General Styles for Footer */
+footer {
+    background-color: #46254d82;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Footer Text */
+footer p {
+    font-size: 14px;
+    margin: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    footer p {
+        font-size: 12px;
+    }
+}
